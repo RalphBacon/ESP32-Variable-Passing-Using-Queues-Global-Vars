@@ -6,7 +6,7 @@ A deep dive into how ESP32 Queues work in RTOS, as well as looking at Global Var
 
 Sponsored by LCSC Electronics (**L**ove **C**omponents? **S**ave **C**ost!)  
 More Asian Brands, Lower Prices, 4 Hours Ready for Shipping  
-Shop: https://lcsc.com/  
+Shop: https://lcsc.com/?href=arduinoelectronics&source=referral  
 
 It's not Rocket Science! 
 
@@ -14,7 +14,7 @@ Here's all you need to know on how Queues work in RTOS and the ESP32 to pass val
 
 But this is a **Deep Dive** so we do cover the subject properly. 
 
-As if that is not enough we also cover an alternative way of passing values between tasks - but is it any better? I'll leave that for your to decide.
+As if that is not enough we also cover an alternative way of passing values between tasks - but is it any better? I'll leave that for you to decide.
 
 As an extra (as if this video is not already long enough) we investigate how the Prime Number calculator suddenly increases its processing time from around 60 milliseconds to 1.7 seconds. What is going on?
 
